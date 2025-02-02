@@ -1,6 +1,6 @@
-## **Neural integration for constitutive equations – HANDS-ON for experimental data**  
+### **Neural integration for constitutive equations – HANDS-ON for experimental data**  
 
-This repository contains **Jupyter notebooks** and **code** developed for the **2025 ALERT Olek Zienkiewicz Doctoral School** on *Constitutive Modelling of Geomaterials* - **Constitutive Modelling meets Machine Learning**.
+This repository contains **Jupyter notebooks** and **code** developed for the **2025 ALERT Olek Zienkiewicz Doctoral School** on *Constitutive modelling of geomaterials* - Session: *Constitutive modelling meets Machine Learning*.
 
 📌 **More details**: [ALERT OZ School 2025 Program](https://soilmodels.com/alert-oz-school-2025/)
 
@@ -12,21 +12,21 @@ This repository contains **Jupyter notebooks** and **code** developed for the **
 
 ---
 
-### **📂 Hands-on Exercises**
+#### **📂 Hands-on Exercises**
 
-#### **🔹 1. Learning Constitutive Equations from Experiments – `[sand] training & validation`**
+##### **🔹 1. Learning Constitutive Equations from Experiments – `[sand] training & validation`**
 - **Material**: Sand with scattered gravel *(origin: Dobrany, Czech Republic)*
 - **Tests**: Drained triaxial compression  
 - **Dataset**: *Smoothed version* of the experimental data  
 
-#### **🔸 2. Learning Constitutive Equations from Experiments – `[sand-raw] training & validation`**
+##### **🔸 2. Learning Constitutive Equations from Experiments – `[sand-raw] training & validation`**
 - **Material**: Sand with scattered gravel *(origin: Dobrany, Czech Republic)*
 - **Tests**: Drained triaxial compression  
 - **Dataset**: *Original experimental data*  
 
 ---
 
-### **📖 References**
+#### **📖 References**
 
 If you find this repository helpful in your research, please consider citing:
 
