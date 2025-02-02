@@ -24,6 +24,30 @@ For more, see [program](https://soilmodels.com/alert-oz-school-2025/)
 ##### Note: this exercise considers the original dataset
 
 
+## References
+
+[1] F Masi, I Einav (2023). "[Neural integration for constitutive equations using small data](https://doi.org/10.1016/j.cma.2023.116698)".
+
+    @article{masi2024neural,
+    title={Neural integration for constitutive equations using small data},
+    author={Masi, Filippo and Einav, Itai},
+    journal={Computer Methods in Applied Mechanics and Engineering},
+    volume={420},
+    pages={116698},
+    year={2024},
+    publisher={Elsevier}
+    }
+
+---
+
+If you found this library useful in your research, please consider citing.
+
+    @article{HandsOnNICE,
+    title={`NICE - Experiments hands-on`},
+    author={Masi, Filippo and Louvard, Enzo},
+    year={2025},
+    url={https://github.com/filippo-masi/ALERT-OlekZienkiewicz-ML}
+
 **Authors**
 - *Filippo Masi* – [GitHub](https://github.com/filippo-masi)
 - *Enzo Louvard* - [GitHub](https://github.com/enzolvd)
