@@ -1,4 +1,4 @@
-# **Neural integration for constitutive equations – HANDS-ON for experimental data**  
+## **Neural integration for constitutive equations – HANDS-ON for experimental data**  
 
 This repository contains **Jupyter notebooks** and **code** developed for the **2025 ALERT Olek Zienkiewicz Doctoral School** on *Constitutive Modelling of Geomaterials* - **Constitutive Modelling meets Machine Learning**.
 
@@ -12,21 +12,21 @@ This repository contains **Jupyter notebooks** and **code** developed for the **
 
 ---
 
-## **📂 Hands-on Exercises**
+### **📂 Hands-on Exercises**
 
-### **🔹 1. Learning Constitutive Equations from Experiments – `[sand] training & validation`**
+#### **🔹 1. Learning Constitutive Equations from Experiments – `[sand] training & validation`**
 - **Material**: Sand with scattered gravel *(origin: Dobrany, Czech Republic)*
 - **Tests**: Drained triaxial compression  
 - **Dataset**: *Smoothed version* of the experimental data  
 
-### **🔸 2. Learning Constitutive Equations from Experiments – `[sand-raw] training & validation`**
+#### **🔸 2. Learning Constitutive Equations from Experiments – `[sand-raw] training & validation`**
 - **Material**: Sand with scattered gravel *(origin: Dobrany, Czech Republic)*
 - **Tests**: Drained triaxial compression  
 - **Dataset**: *Original experimental data*  
 
 ---
 
-## **📖 References**
+### **📖 References**
 
 If you find this repository helpful in your research, please consider citing:
 
@@ -43,8 +43,7 @@ Masi, F., & Einav, I. (2023).
   pages={116698},
   year={2024},
   publisher={Elsevier}
-}
-```
+}```
 
 ```bibtext
 @article{HandsOnNICE,
@@ -52,5 +51,4 @@ Masi, F., & Einav, I. (2023).
   author={Masi, Filippo and Louvard, Enzo},
   year={2025},
   url={https://github.com/filippo-masi/ALERT-OlekZienkiewicz-ML}
-}
-
+}```
