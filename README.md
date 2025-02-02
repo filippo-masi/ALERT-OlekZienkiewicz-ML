@@ -14,12 +14,12 @@ This repository contains **Jupyter notebooks** and **code** developed for the **
 
 #### **📂 Hands-on Exercises**
 
-##### **🔹 1. Learning Constitutive Equations from Experiments – `[sand] training & validation`**
+#### **🔹 1. Learning Constitutive Equations from Experiments – `[sand] training & validation`**
 - *Material*: Sand with scattered gravel *(origin: Dobrany, Czech Republic)*
 - *Tests*: Drained triaxial compression  
 - *Dataset*: *Smoothed version* of the experimental data  
 
-##### **🔸 2. Learning Constitutive Equations from Experiments – `[sand-raw] training & validation`**
+#### **🔸 2. Learning Constitutive Equations from Experiments – `[sand-raw] training & validation`**
 - *Material*: Sand with scattered gravel *(origin: Dobrany, Czech Republic)*
 - *Tests*: Drained triaxial compression  
 - *Dataset*: *Original experimental data*  
