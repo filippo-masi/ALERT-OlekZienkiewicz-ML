@@ -1,6 +1,6 @@
-# **Neural Integration for Small Data – HANDS-ON: Experimental Data**  
+# **Neural integration for constitutive equations – HANDS-ON: Experimental dNeural integration for constitutive equationsata**  
 
-This repository contains **Jupyter notebooks** and **code** developed for the **2025 ALERT Olek Zienkiewicz Doctoral School** on *Constitutive Modelling of Geomaterials*, where **Constitutive Modelling meets Machine Learning**.
+This repository contains **Jupyter notebooks** and **code** developed for the **2025 ALERT Olek Zienkiewicz Doctoral School** on *Constitutive Modelling of Geomaterials* - **Constitutive Modelling meets Machine Learning**.
 
 📌 **More details**: [ALERT OZ School 2025 Program](https://soilmodels.com/alert-oz-school-2025/)
 
