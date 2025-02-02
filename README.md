@@ -7,7 +7,7 @@ This repository contains **Jupyter notebooks** and **code** developed for the **
 ---
 
 <p align="center">
-  <img src="./_images/front_page.png" alt="Neural Integration for Small Data" width="80%">
+  <img src="./_images/front_page.png" alt="Neural Integration for Small Data" width="100%">
 </p>
 
 ---
