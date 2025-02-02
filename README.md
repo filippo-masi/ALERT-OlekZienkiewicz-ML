@@ -1,4 +1,4 @@
-# **Neural integration for constitutive equations – HANDS-ON: Experimental dNeural integration for constitutive equationsata**  
+# **Neural integration for constitutive equations – HANDS-ON for experimental data**  
 
 This repository contains **Jupyter notebooks** and **code** developed for the **2025 ALERT Olek Zienkiewicz Doctoral School** on *Constitutive Modelling of Geomaterials* - **Constitutive Modelling meets Machine Learning**.
 
@@ -44,9 +44,9 @@ Masi, F., & Einav, I. (2023).
   year={2024},
   publisher={Elsevier}
 }
+```
 
----
-
+```bibtext
 @article{HandsOnNICE,
   title={NICE - Experiments Hands-on},
   author={Masi, Filippo and Louvard, Enzo},
