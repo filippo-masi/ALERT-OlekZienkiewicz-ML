@@ -43,7 +43,8 @@ Masi, F., & Einav, I. (2023).
   pages={116698},
   year={2024},
   publisher={Elsevier}
-}```
+}
+```
 
 ```bibtext
 @article{HandsOnNICE,
@@ -51,4 +52,5 @@ Masi, F., & Einav, I. (2023).
   author={Masi, Filippo and Louvard, Enzo},
   year={2025},
   url={https://github.com/filippo-masi/ALERT-OlekZienkiewicz-ML}
-}```
+}
+```
