@@ -12,8 +12,7 @@ For more, see [program](https://soilmodels.com/alert-oz-school-2025/)
 *Material*: Sand with scattered gravel (origin: Dobrany, Czech Republic)
 
 *Tests*: drained triaxial compression
-
-##### Note: this exercise considers a smoothed version of the original dataset 
+###### Note: this exercise considers a smoothed version of the original dataset 
 
 
 ### 2. Learning constitutive equations from experiments - ``` [sand-raw] ```
