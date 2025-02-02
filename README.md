@@ -45,6 +45,8 @@ Masi, F., & Einav, I. (2023).
   publisher={Elsevier}
 }
 
+---
+
 @article{HandsOnNICE,
   title={NICE - Experiments Hands-on},
   author={Masi, Filippo and Louvard, Enzo},
