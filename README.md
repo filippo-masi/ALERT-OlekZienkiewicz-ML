@@ -30,9 +30,7 @@ This repository contains **Jupyter notebooks** and **code** developed for the **
 
 If you find this repository helpful in your research, please consider citing:
 
-Masi, F., & Einav, I. (2023).  
-[Neural integration for constitutive equations using small data](https://doi.org/10.1016/j.cma.2023.116698).  
-*Computer Methods in Applied Mechanics and Engineering*, 420, 116698.
+Masi, F., & Einav, I. (2023). [Neural integration for constitutive equations using small data](https://doi.org/10.1016/j.cma.2023.116698). *Computer Methods in Applied Mechanics and Engineering*, 420, 116698.
 
 ```bibtex
 @article{masi2024neural,
