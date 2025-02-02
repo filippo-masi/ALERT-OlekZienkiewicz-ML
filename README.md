@@ -1,8 +1,6 @@
 # **Neural Integration for Small Data – HANDS-ON: Experimental Data**  
 
-🚀 **Welcome!** This repository contains **Jupyter notebooks** and **code** developed for the  
-**2025 ALERT Olek Zienkiewicz Doctoral School** on *Constitutive Modelling of Geomaterials*,  
-where **Constitutive Modelling meets Machine Learning**.
+This repository contains **Jupyter notebooks** and **code** developed for the **2025 ALERT Olek Zienkiewicz Doctoral School** on *Constitutive Modelling of Geomaterials*, where **Constitutive Modelling meets Machine Learning**.
 
 📌 **More details**: [ALERT OZ School 2025 Program](https://soilmodels.com/alert-oz-school-2025/)
 
@@ -16,12 +14,12 @@ where **Constitutive Modelling meets Machine Learning**.
 
 ## **📂 Hands-on Exercises**
 
-### **🔹 1. Learning Constitutive Equations from Experiments – `sand`**
+### **🔹 1. Learning Constitutive Equations from Experiments – `[sand] training & validation`**
 - **Material**: Sand with scattered gravel *(origin: Dobrany, Czech Republic)*
 - **Tests**: Drained triaxial compression  
 - **Dataset**: *Smoothed version* of the experimental data  
 
-### **🔸 2. Learning Constitutive Equations from Experiments – `sand-raw`**
+### **🔸 2. Learning Constitutive Equations from Experiments – `[sand-raw] training & validation`**
 - **Material**: Sand with scattered gravel *(origin: Dobrany, Czech Republic)*
 - **Tests**: Drained triaxial compression  
 - **Dataset**: *Original experimental data*  
@@ -32,7 +30,6 @@ where **Constitutive Modelling meets Machine Learning**.
 
 If you find this repository helpful in your research, please consider citing:
 
-### **📌 Main Reference**
 Masi, F., & Einav, I. (2023).  
 [Neural integration for constitutive equations using small data](https://doi.org/10.1016/j.cma.2023.116698).  
 *Computer Methods in Applied Mechanics and Engineering*, 420, 116698.
@@ -47,3 +44,11 @@ Masi, F., & Einav, I. (2023).
   year={2024},
   publisher={Elsevier}
 }
+
+@article{HandsOnNICE,
+  title={NICE - Experiments Hands-on},
+  author={Masi, Filippo and Louvard, Enzo},
+  year={2025},
+  url={https://github.com/filippo-masi/ALERT-OlekZienkiewicz-ML}
+}
+
