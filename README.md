@@ -14,12 +14,12 @@ This repository contains **Jupyter notebooks** and **code** developed for the **
 
 #### **📂 Hands-on Exercises**
 
-#### **🔹 1. Learning Constitutive Equations from Experiments – `[sand] training & validation`**
+#### **I. Learning constitutive equations from experiments – `[sand] training & validation`**
 - *Material*: Sand with scattered gravel *(origin: Dobrany, Czech Republic)*
 - *Tests*: Drained triaxial compression  
 - *Dataset*: *Smoothed version* of the experimental data  
 
-#### **🔸 2. Learning Constitutive Equations from Experiments – `[sand-raw] training & validation`**
+#### **II. Learning constitutive equations from experiments – `[sand-raw] training & validation`**
 - *Material*: Sand with scattered gravel *(origin: Dobrany, Czech Republic)*
 - *Tests*: Drained triaxial compression  
 - *Dataset*: *Original experimental data*  
@@ -28,7 +28,7 @@ This repository contains **Jupyter notebooks** and **code** developed for the **
 
 #### **📖 References**
 
-If you find this repository helpful in your research, please consider citing:
+If you find this repository helpful, please consider citing:
 
 Masi, F., & Einav, I. (2023). [Neural integration for constitutive equations using small data](https://doi.org/10.1016/j.cma.2023.116698). *Computer Methods in Applied Mechanics and Engineering*, 420, 116698.
 
@@ -52,3 +52,4 @@ Masi, F., & Einav, I. (2023). [Neural integration for constitutive equations usi
   url={https://github.com/filippo-masi/ALERT-OlekZienkiewicz-ML}
 }
 ```
+Authors: Filippo Masi, Enzo Louvard
