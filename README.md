@@ -13,6 +13,8 @@ This repository contains **Jupyter notebooks** and **code** developed for the **
 ---
 
 #### **📂 Hands-on Exercises**
+Two exercises are considered, both uses experimental results of a sand specimen subjected to drained triaxial compression from [SoilModels](https://soilmodels.com/). The first exercise considers a filtered (smoothed) version of the original dataset, the second uses the original, raw dataset. The filtered data is used to enable a fast training which can be effectively used to vary the structure of the network (and its hyper-parameters).
+
 
 #### **I. Learning constitutive equations from experiments – `[sand] training & validation`**
 - *Material*: Sand with scattered gravel *(origin: Dobrany, Czech Republic)*
